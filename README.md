@@ -1,4 +1,4 @@
-# aiming to learn full stack development
+# Aiming to learn full stack development
 
 # First-Web-Development-Project-While-learning
 
